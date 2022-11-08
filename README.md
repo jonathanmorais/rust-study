@@ -1,3 +1,3 @@
-# scala-study
+# rust-study
 
-Resources for Scala study: data types, functions, functional programming, parallelization, methods. 
+Resources for Rust study: data types, functions, functional programming, parallelization, methods. 
